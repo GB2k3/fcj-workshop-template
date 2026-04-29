@@ -10,7 +10,7 @@ date: 17-03-2026
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 3   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 17/03/2026 | 17/03/2026      |
+| 3   | - Learn about VPC and services related                                                                                                  | 17/03/2026 | 17/03/2026      |
 | 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 17/03/2026 | 17/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 19/03/2025 | 19/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Learn about other service from AWS   <br>                            | 19/03/2026 | 19/03/2026     | <https://cloudjourney.awsstudygroup.com/> |
