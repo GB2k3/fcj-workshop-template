@@ -20,7 +20,4 @@ date: 13-04-2026
 * Nắm được cơ bản về những gì cần có trong project.
 * Phác thảo sơ bộ project cần có các dịch vụ gì của AWS.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
 
