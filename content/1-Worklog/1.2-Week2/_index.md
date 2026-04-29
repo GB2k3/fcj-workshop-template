@@ -11,8 +11,8 @@ date: 17-03-2026
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 3   | - Learn about VPC and services related                                                                                                  | 17/03/2026 | 17/03/2026      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 17/03/2026 | 17/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 19/03/2025 | 19/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - Learn about EC2 <br>                                              | 17/03/2026 | 17/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - **Practice:** <br> + Create a VPC and EC2 <br>  + Attach service to VPC and EC2 | 19/03/2025 | 19/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Learn about other service from AWS   <br>                            | 19/03/2026 | 19/03/2026     | <https://cloudjourney.awsstudygroup.com/> |
 
 
