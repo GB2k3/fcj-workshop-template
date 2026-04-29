@@ -13,7 +13,7 @@ date: 17-03-2026
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 3   | - Tìm hiểu về VPC và các dịch vụ liên quan <br>                                                                                              | 17/03/2026   | 17/03/2026      |<https://cloudjourney.awsstudygroup.com/>
 | 3   | - Tìm hiểu về EC2 <br>                                            | 17/03/2026   | 17/03/2026     | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Thực hành:** <br> + Tạo VPC và EC2 <br> + Làm quen cơ bản về VPC và EC2 <br>&emsp;  | 19/03/2026   | 19/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - **Thực hành:** <br> + Tạo VPC và EC2 <br> + Gắn các dịch vụ cho VPC và EC2 <br>&emsp;  | 19/03/2026   | 19/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
 | 5   | - Xem bài giảng về các dịch vụ của AWS                   | 19/03/2026   | 19/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 
