@@ -15,8 +15,8 @@ date: 24-03-2026
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 3   | - Tìm hiểu về IAM và IAM Roles                                                                                             | 24/03/2026   | 24/03/2026      |<https://cloudjourney.awsstudygroup.com/>
 | 3   | - Tìm hiểu Amazon RDS                                             | 24/03/2026   | 24/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Thực hành:** <br>&emsp; + Tạo IAM và IAM Roles <br>&emsp; + Gắn IAM Roles cho các dịch vụ liên quan <br> | 26/03/2026   | 26/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Thực hành:** <br>&emsp; + Tạo database trên Amazon RDS <br>&emsp; + Tiếp tục thực hành VPC và EC2                                                                                         | 26/03/2026   | 26/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - **Thực hành:** <br>&emsp; + Tạo IAM và IAM Roles <br>&emsp; + Gắn IAM Roles cho các dịch vụ liên quan <br> | 24/03/2026   | 24/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - **Thực hành:** <br>&emsp; + Tạo database trên Amazon RDS <br>&emsp; + Tiếp tục thực hành VPC và EC2                                                                                         | 24/03/2026   | 24/03/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 3:
