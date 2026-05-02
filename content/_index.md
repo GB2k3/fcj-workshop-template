@@ -25,7 +25,7 @@ date: 2026-05-03
 
 &emsp; **Internship Duration:** From 03/09/2026 to 05/02/2026
 
-![Your profile picture](/images/avatar.png)
+<img width="150" height="200" alt="20250717_110633" src="https://github.com/user-attachments/assets/fe1f0182-2495-4ab0-a0dd-5c19b65bbf07" />
 
 ### Report Content
 
