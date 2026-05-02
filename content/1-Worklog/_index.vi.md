@@ -1,19 +1,20 @@
 ---
-title: "Worklog Tuần 8"
-date: 27-04-2026
+title: "Worklog"
+date: 2026-05-02
 ---
-### Mục tiêu tuần 8 (tuần cuối):
 
-* Hoàn thành project và presentation.
+**Tuần 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 3   | - Tiếp tục hoàn thiện Python code và Terraform code để triển khai dự án <br>                                                                                           | 28/04/2026   | 28/04/2026      |
-| 4   | - Kiểm tra và sửa lỗi <br> | 29/04/2026   | 29/04/2026      | [<https://cloudjourney.awsstudygroup.com/>](https://developer.hashicorp.com/terraform) |
-| 4   | - Tải về Terraform và nâng cấp project <br>                  | 22/04/2026   | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+**Tuần 2:** [Doing task A...](1.2-week2/)
 
+**Tuần 3:** [Doing task B...](1.3-week3/)
 
-### Kết quả đạt được tuần 8:
-* Hoàn thành project.
+**Tuần 4:** [Doing task C...](1.4-week4/)
 
+**Tuần 5:** [Doing task D...](1.5-week5/)
+
+**Tuần 6:** [Doing task E...](1.6-week6/)
+
+**Tuần 7:** [Doing task G...](1.7-week7/)
+
+**Tuần 8:** [Doing task H...](1.8-week8/)
