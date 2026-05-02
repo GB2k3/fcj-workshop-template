@@ -23,9 +23,7 @@ date: 03-05-2026
 
 &emsp; **Thời gian thực tập:** Từ ngày 09/03/2026 đến ngày 02/05/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
-
-
+<img width="150" height="200" alt="20250717_110633" src="https://github.com/user-attachments/assets/9e39ba9b-e02b-40f2-976d-1bc52069cc7e" />
 
 ### Nội dung báo cáo
 1.  [Worklog](1-Worklog/)
