@@ -3,8 +3,8 @@ title: "Self-Assessment"
 date: 2026-05-02
 ---
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+During my internship at **Amazon Web Services, Inc.** from **March 9th, 2026** to **May 2nd, 2026**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
+I participated in **building a program to monitor logs from systems**, through which I improved my skills in **programming, analysis, reporting, communication, teamwork, and AI usage**.
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
 
@@ -28,5 +28,5 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 ### Needs Improvement
 
 * Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+* Improve problem-solving thinking and programming, including using AI to solve a complex project
+* Improve ability to seek tasks without instruction and always initiative without asking
