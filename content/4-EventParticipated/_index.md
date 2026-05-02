@@ -3,7 +3,7 @@ title: "Events Participated"
 date: 2026-03-21
 ---
 
-During my internship, I participated in one event. Thit event was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+During my internship, I participated in one event. This event was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
 
 ### [Event 1](4.1-Event1/)  
 &emsp;**Event Name:** AWS First Cloud AI Journey Community Day 2026
