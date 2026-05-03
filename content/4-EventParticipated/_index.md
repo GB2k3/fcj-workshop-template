@@ -1,6 +1,9 @@
 ---
 title: "Events Participated"
 date: 2026-03-21
+weight: 3
+chapter: false
+pre: " <b> 3. </b> "
 ---
 
 During my internship, I participated in one event. This event was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
